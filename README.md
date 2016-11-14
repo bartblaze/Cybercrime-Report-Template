@@ -6,7 +6,7 @@ Cybercrime Report Template
 
 *Disclaimer*: no information will be sent to me or Jotform at any point. 
 
-Additionally to the template included in link above, it is also seperately available as a PDF.
+Additionally to the template included in link above, it is also seperately available as a [PDF](Cybercrime-Report-Template/Cybercrime Report Template.pdf).
 
 Organisations that wish to use this template, are free to do so. I have added the source on Github, which you'll be able to find here. Please refer to the license for more information.
 
