@@ -6,7 +6,7 @@ This template is also available online:
 
 Additionally to the template included in link above, it is also seperately available as a [PDF](https://cdn.rawgit.com/bartblaze/Cybercrime-Report-Template/master/Cybercrime%20Report%20Template.pdf).
 
-Organisations that wish to use this template, are free to do so, aaccording to the [license](LICENSE). The [source](Cybercrime_Report_Template__source) can be found in this same repository. 
+Organisations that wish to use and/or modify this template, are free to do so according to the [license](LICENSE). The [source](Cybercrime_Report_Template__source) can be found in this same repository. 
 
 For more information, please refer to the following blog posts:
 * [Cybercrime Report Template](https://bartblaze.blogspot.com/2016/11/cybercrime-report-template.html)
